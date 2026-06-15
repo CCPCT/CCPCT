@@ -1,5 +1,5 @@
 # I'm CCPCT :)
-**Hobbyist Developer | Game Modder**
+**Hobbyist Dev | Game Modder**
 
 modding minecraft java 1.21+ client [modrinth](https://modrinth.com/user/CC_PCT) ~~I also play bedrock~~
 
